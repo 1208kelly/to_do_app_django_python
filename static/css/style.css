@@ -1,5 +1,5 @@
 body{
-    background-color: #638CB8;
+    background-color: #6aa4db;
 }
 
 input{
@@ -14,7 +14,7 @@ input::placeholder {
 }
 
 .submit{
-    background-color: #6BA3E8;
+    background-color: #1fc2ac;
 }
 
 .center-column{
@@ -27,7 +27,7 @@ input::placeholder {
 }
 
 .item-row{
-    background-color: #906abd;
+    background-color: #16548d;
     margin: 10px;
     padding: 20px;
     border-radius: 3px;
@@ -39,4 +39,8 @@ input::placeholder {
 .btn-danger{
     background-color: #ffae19;
     border-color: #e59400;
+}
+
+.btn-info {
+    background-color: #1fc2ac;
 }
